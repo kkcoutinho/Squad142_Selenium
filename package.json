@@ -1,0 +1,17 @@
+{
+  "name": "squad142_selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Katia Coutinho",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mocha": "^11.7.1",
+    "selenium-webdriver": "^4.34.0"
+  }
+}

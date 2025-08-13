@@ -1,0 +1,17 @@
+[
+  {
+    "email": "katia_coutinho@yahoo.com.br",
+    "senha": "env:SENHA_142",
+    "nomeEsperado": "Hi, Katia Aguiar Coutinho"
+  },
+  {
+    "email": "teste@teste.com.br",
+    "senha": "teste",
+    "nomeEsperado": "Confira seu e-mail e sua senha, por favor."
+  },
+   {
+    "email": "katia_coutinho@yahoo.com.br",
+    "senha": "teste",
+    "nomeEsperado": "Confira seu e-mail e sua senha, por favor."
+  }
+]
